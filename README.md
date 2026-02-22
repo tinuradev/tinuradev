@@ -36,7 +36,7 @@
 ### 🛠 Tools & Platforms
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,photoshop,premierepro" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,photoshop,aftereffects,premiere,resolve" />
 </p>
 
 ---
