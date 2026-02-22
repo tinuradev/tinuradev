@@ -37,6 +37,7 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,photoshop,aftereffects,premiere,resolve" />
+   <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/DaVinci_Resolve_Icon.png" alt="davinci" width="40" height="40" style="margin-left:8px; vertical-align:middle;" />
 </p>
 
 ---
