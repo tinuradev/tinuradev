@@ -37,6 +37,7 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,photoshop,aftereffects,premiere" />
+  <br>
   <img src="https://cdn.simpleicons.org/davinciresolve" height="48" style="vertical-align: middle;" />
 </p>
 
