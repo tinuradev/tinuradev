@@ -37,10 +37,11 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,photoshop,aftereffects,premiere" />
-  <br>
-  <img src="https://cdn.simpleicons.org/davinciresolve" height="48" style="vertical-align: middle;" />
+  <img src="https://cdn.simpleicons.org/davinciresolve" height="48" />
+  <img src="https://cdn.simpleicons.org/burpsuite" height="48" />
+  <img src="https://cdn.simpleicons.org/nmap" height="48" />
+  <img src="https://cdn.simpleicons.org/wazuh" height="48" />
 </p>
-
 ---
 ### 📊 GitHub Stats
 
