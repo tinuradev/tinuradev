@@ -36,12 +36,10 @@
 ### 🛠 Tools & Platforms
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,photoshop,aftereffects,premiere,resolve" />
-
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,photoshop,aftereffects,premiere,davinci" />
 </p>
 
 ---
-
 ### 📊 GitHub Stats
 
 <p align="center">
