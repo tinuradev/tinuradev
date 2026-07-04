@@ -51,7 +51,7 @@
 
 ---
 
-### 🧩 Fun Stickers
+### 🧩 Stressss Brooo
 
 <p align="center">
 <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="200"/>
@@ -66,11 +66,16 @@
 <p align="center">
 <a href="https://github.com/tinuradev"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
+<p align="center">
 <a href="https://www.facebook.com/This.Is.Tinura">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
 </p>
-
+<p align="center">
+<a href="https://tinuraindunil.com">
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+</p>
 ---
 
 <p align="center">✨ Building the Future with Code ✨</p>
