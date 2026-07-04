@@ -14,6 +14,7 @@
 - 🧠 Passionate about solving **Social Media Issues & Tech Problems**
 - 📍 Based in Sri Lanka
 - 🎯 Goal: Become a Global Tech Entrepreneur
+- 💬 Reach Me at hello@tinuraindunil.com
 
 ---
 
