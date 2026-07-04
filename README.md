@@ -27,7 +27,7 @@
 <img src="https://skillicons.dev/icons?i=ts" height="60"/>
 <img src="https://skillicons.dev/icons?i=cpp" height="60"/>
 <img src="https://skillicons.dev/icons?i=html" height="60"/>
-<img src="https://skillicons.dev/icons?i=css" height="60"/>
+<img src="[https://skillicons.dev/icons?i=css](https://res.cloudinary.com/dwq1etwq0/image/upload/v1783182954/Nmap-practice-lab1-removebg-preview_buvb6v.png)" height="60"/>
 <img src="https://skillicons.dev/icons?i=php" height="60"/>
 
 </p>
