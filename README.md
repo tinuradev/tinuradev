@@ -36,10 +36,9 @@
 ### 🛠 Tools & Platforms
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,photoshop,aftereffects,premiere,davinci" />
-  <img src="https://cdn.simpleicons.org/davinciresolve" height="48" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,photoshop,aftereffects,premiere" />
+  <img src="https://cdn.simpleicons.org/davinciresolve" height="48" style="vertical-align: middle;" />
 </p>
-
 
 ---
 ### 📊 GitHub Stats
