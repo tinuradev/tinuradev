@@ -37,7 +37,9 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,photoshop,aftereffects,premiere,davinci" />
+  <img src="https://cdn.simpleicons.org/davinciresolve" height="48" />
 </p>
+
 
 ---
 ### 📊 GitHub Stats
